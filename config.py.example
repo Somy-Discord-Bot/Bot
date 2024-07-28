@@ -1,0 +1,8 @@
+NODES = [
+    {
+        "host": "host ip / localhost",
+        "port": 2333,
+        "label": "label",
+        "password": "password",
+    }
+]
